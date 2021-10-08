@@ -12,7 +12,7 @@
 # How to Contribute
 For contributions in this repository, please read CONTRIBUTION.md first.  
 (Please pull the changes from this repo if you have already forked the repository and are facing conflicts) 
-    If you like the repository, please star it :)
+If you like the repository, please star it :)
 
 # 🤝🏻 Our Contributors
 <a href="https://github.com/shreyaj1/Hacktober-fest/graphs/contributors">
