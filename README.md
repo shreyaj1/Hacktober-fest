@@ -16,5 +16,5 @@ If you like the repository, please star it :)
 
 # 🤝🏻 Our Contributors
 <a href="https://github.com/shreyaj1/Hacktober-fest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shreyaj1/Hacktober-fest" />
+  <img src="https://contrib.rocks/image?repo=shreyaj1/Hacktober-fest"/>
 </a>
