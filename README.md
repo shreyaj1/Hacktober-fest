@@ -1,6 +1,6 @@
 # Hacktober-fest 
 
-# This repository is mainly open to those who are looking to make some PR for the Hacktoberfest event, and to get started with GitHub :)
+# This repository is mainly open to those who are looking to make PR for the Hacktoberfest event, and to get started with GitHub :)
 
 # Why contribute to this repository
 * Beginner-friendly
