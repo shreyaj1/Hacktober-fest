@@ -1,9 +1,9 @@
 # Hacktober-fest 2021
 
-**This is a beginner-friendly repository mainly open to those who are looking to make some PR and to get started with the
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
-know where to start, feel free to watch the videos linked below, and
+This is a beginner-friendly repository mainly open to those who are looking to make some PR and to get started with the
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and
 read the [CONTRIBUTION.md](https://github.com/shreyaj1/Hacktober-fest/blob/main/CONTRIBUTION.md)
+
 Happy Hactoberfest 🧡
 
 P.S. Star ⭐ and Share this repository :)
