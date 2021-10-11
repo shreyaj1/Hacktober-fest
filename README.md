@@ -26,9 +26,9 @@ P.S. Star ⭐ and Share this repository :)
 
 . Beginner-friendly 😎
 
-. You can add any piece of code or project to this repository 
+. You can add any piece of code or project to this repository :)
 
-. Create your first Pull Request on GitHub
+. Create your first Pull Request on GitHub 💁‍♀️
 
 . Chance of receiving a T-Shirt 👕 for participating in the Hacktoberfest
 
@@ -55,10 +55,13 @@ P.S. Star ⭐ and Share this repository :)
   - 4
 
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
-  - [Click me](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
+  - [Click me](https://hacktoberfest.digitalocean.com/profile/). 
 
 - What is the duration of Hacktoberfest 2021?
   - 1-10-2021 to 31-10-2021
 
 - What is the event for?
   - For the promoting and celebrating open source community engagement
+
+**Maintain the code of conduct and open source guidelines.
+Good luck 👍
