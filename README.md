@@ -14,8 +14,11 @@ P.S. Star ⭐ and Share this repository :)
 # Event Details
 
 . Hacktoberfest is a *month-long challenge* that happens in every year in the month of October, marking the celebration of Open Source Community. It helps the newbies to create their 1st meaningful PR.
+
 . It is hosted by *Digital Ocean* in partnership with Github and other companies like DEV, Intel etc.
+
 . All backgrounds and skill levels are encouraged to complete the challenge.
+
 . Refer to know other information: [Participation rules](https://hacktoberfest.digitalocean.com/resources/participation) | [Swags](https://hacktoberfestswaglist.com/)
 
 
