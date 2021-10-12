@@ -63,5 +63,5 @@ P.S. Star ⭐ and Share this repository :)
 - What is the event for?
   - For the promoting and celebrating open source community engagement
 
-**Maintain the code of conduct and open source guidelines.
+*Maintain the code of conduct and open source guidelines.
 Good luck 👍
