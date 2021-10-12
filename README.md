@@ -13,24 +13,24 @@ P.S. Star ⭐ and Share this repository :)
 
 # Event Details
 
-. Hacktoberfest is a *month-long challenge* that happens in every year in the month of October, marking the celebration of Open Source Community. It helps the newbies to create their 1st meaningful PR.
+- Hacktoberfest is a *month-long challenge* that happens in every year in the month of October, marking the celebration of Open Source Community. It helps the newbies to create their 1st meaningful PR.
 
-. It is hosted by *Digital Ocean* in partnership with Github and other companies like DEV, Intel etc.
+- It is hosted by *Digital Ocean* in partnership with Github and other companies like DEV, Intel etc.
 
-. All backgrounds and skill levels are encouraged to complete the challenge.
+- All backgrounds and skill levels are encouraged to complete the challenge.
 
-. Refer to know other information: [Participation rules](https://hacktoberfest.digitalocean.com/resources/participation) | [Swags](https://hacktoberfestswaglist.com/)
+- Refer to know other information: [Participation rules](https://hacktoberfest.digitalocean.com/resources/participation) | [Swags](https://hacktoberfestswaglist.com/)
 
 
 # Why contribute to this repository 
 
-. Beginner-friendly 😎
+- Beginner-friendly 😎
 
-. You can add any piece of code or project to this repository :)
+- You can add any piece of code or project to this repository :)
 
-. Create your first Pull Request on GitHub 💁‍♀️
+- Create your first Pull Request on GitHub 💁‍♀️
 
-. Chance of receiving a T-Shirt 👕 for participating in the Hacktoberfest
+- Chance of receiving a T-Shirt 👕 for participating in the Hacktoberfest
 
 
 # Reference Videos:
