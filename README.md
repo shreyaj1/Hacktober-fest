@@ -33,6 +33,13 @@ P.S. Star ⭐ and Share this repository :)
 - Chance of receiving a T-Shirt 👕 for participating in the Hacktoberfest
 
 
+# How to Contribute 
+
+- Refer to [CONTRIBUTION.md](https://github.com/shreyaj1/Hacktober-fest/blob/main/CONTRIBUTION.md)
+
+**Note : You can add any piece of code or project, you want to share but do describe it while creating the pull request. (No need to describe its function, just include the question or name of the topic)**
+
+
 # Reference Videos:
 
 - [What is Hacktoberfest](https://youtu.be/xBPFzXa9Fio)
