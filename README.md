@@ -40,13 +40,13 @@ P.S. Star ⭐ and Share this repository :)
 **Note : You can add any piece of code or project, you want to share but do describe it while creating the pull request. (No need to describe its function, just include the question or name of the topic)**
 
 
-# Reference Videos:
+# Reference Videos 
 
 - [What is Hacktoberfest](https://youtu.be/xBPFzXa9Fio)
 - [How to make pull request [Overview]](https://youtu.be/f8sKlxQd1Bs)
 
 
-# Contributors :
+# Contributors 
 <a href="https://github.com/shreyaj1/Hacktober-fest/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shreyaj1/Hacktober-fest"/>
 </a>
