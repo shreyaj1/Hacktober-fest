@@ -1,7 +1,7 @@
 # How to contribute to the repository?
 
 - Fork the repository
-- Clone your fork down to your machine / upload your valid code  
+- Clone/fork down to your machine or upload your code  
 - Make your changes accordingly
 - Commit and push
 - Create a new pull request
