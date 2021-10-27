@@ -8,7 +8,7 @@
 - And now patiently wait for me to merge it .
 - Good job well done, Congrats!
 
-*Note : Do not make changes in **README** and **CONTRIBUTION** file*
+*Note : Do not make any changes in **README** and **CONTRIBUTION** file*
 
 # Do not create any invalid Pull requests.
 
