@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-
     int i, j, n, k, arr[100];
 
     printf("How many numbers to enter : \n");
@@ -22,10 +21,10 @@ int main()
         }
         arr[j + 1] = k;
     }
-
+    
     printf("Elements after insertion sort are ");
     for (i = 0; i < n; i++)
         printf(" %d ", arr[i]);
 
     return 0;
-} 
+}
