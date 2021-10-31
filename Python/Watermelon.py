@@ -18,3 +18,5 @@ if w%2 == 0:
         print('NO')
 else:
     print('NO')
+
+# End of the program
