@@ -12,7 +12,7 @@
 
 # Do not create any invalid Pull requests.
 
-# Github Contribution Rules
+# Github Contribution Rules:
 
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
